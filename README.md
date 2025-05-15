@@ -3,6 +3,7 @@
 <p align="center">
 <img src="https://i.imgur.com/Yjq38L7.jpeg"/>
   <img src="http://i.imgur.com/gMmsO4e.png"/>
+   <img src="https://i.imgur.com/b9ryJrF.jpeg"/>
 </p>
 
 <h1> Ping and log into Linux VM using Microsoft Powershell (SSH) </h1>
