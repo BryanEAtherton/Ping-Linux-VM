@@ -54,15 +54,15 @@ For nstructions on finding the public IP address of an Azure VM, refer to step 9
 </p>
 
 <p>   
-4. 
+4. Enter the password established when creating the Linux VM.  Note: No text will appear when entering the password, but rest assured, it is being entered. Then press Enter.
 <p>
-<img src="https://i.imgur.com/WJjbw1j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4FmyNK0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
-5. 
+5. If done successfully, notice the change in user name and color of the text.  We are now logged into the Linux VM and can issue commands to the OS. 
 <p>
-<img src="https://i.imgur.com/F7e5bMk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mtHsCa1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 [Click here to return to the Security Project 1 Homepage](https://github.com/BryanEAtherton/Security-Project-1)
