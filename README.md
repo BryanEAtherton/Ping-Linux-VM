@@ -38,17 +38,19 @@ For nstructions on finding the public IP address of an Azure VM, refer to step 9
 <br />
 
 <p>
-2. 
+2. Use the ping command and type or paste the Linux VM IP address into the command line, then press Enter.  Observe the successful ping attempt that follows. 
 </p>
 <p>
-<img src="https://i.imgur.com/vAt6M9b.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OghKqZJ.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 
+<h2> Log into the Linux VM  </h2>
+
 <p>
- 3. 
+3. Type the command ssh, followed by the username established when creating the Linux VM, and the IP address.  Type "yes" when asked "Are you sure you want to continue connecting?", and press Enter.
 </p>
 <p>
-<img src="https://i.imgur.com/y72gJDw.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xKfD5s8.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>   
