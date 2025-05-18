@@ -32,9 +32,9 @@ We will ping the Linux VM and log into it using Microsoft PowerShell.
 <p>
 <img src="https://i.imgur.com/ycNlNku.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
-For nstructions on finding the public IP address of an Azure VM, refer to step 9 in the Azure Virtual Machine Setup and Access section.
+For instructions on finding the public IP address of an Azure VM, refer to step 9 in the Azure Virtual Machine Setup and Access section.
   
-[Click here to the view Azure Virtual Machine Setup and Access section](https://github.com/BryanEAtherton/Azure-Virtual-Machine)
+[Click here to view the Azure Virtual Machine Setup and Access section](https://github.com/BryanEAtherton/Azure-Virtual-Machine)
 
 <br />
 
