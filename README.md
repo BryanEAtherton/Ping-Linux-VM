@@ -1,7 +1,6 @@
 # Security Project 1
 
 <p align="center">
-<img src="https://i.imgur.com/Yjq38L7.jpeg"/>
   <img src="http://i.imgur.com/gMmsO4e.png"/>
    <img src="https://i.imgur.com/b9ryJrF.jpeg"/>
 </p>
