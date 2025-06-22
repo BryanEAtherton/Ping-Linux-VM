@@ -1,4 +1,4 @@
-# Security Project 1
+# Microsoft Azure
 
 <p align="center">
   <img src="http://i.imgur.com/gMmsO4e.png"/>
