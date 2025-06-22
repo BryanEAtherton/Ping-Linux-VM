@@ -65,7 +65,7 @@ For instructions on finding the public IP address of an Azure VM, refer to step 
 <img src="https://i.imgur.com/mtHsCa1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-[Click here to return to the Security Project 1 Homepage](https://github.com/BryanEAtherton/Security-Project-1)
+[Click here to return to the Homepage](https://github.com/BryanEAtherton)
 
 <br />
 
